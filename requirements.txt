@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+pytest
+flake8
+great_expectations
+joblib
+fastapi
+uvicorn
